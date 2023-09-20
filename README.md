@@ -26,3 +26,6 @@ Author:
 
 Muhammad Bazil (GitHub: M3M397)
 Explore the repository to see the code and assets that power this delightful restaurant website. Share your ideas and collaborate to make it even better!
+
+
+Website link : https://m3m397.github.io/Restaurant-1
